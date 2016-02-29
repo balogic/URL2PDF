@@ -1,5 +1,5 @@
 # GeneratePDF
-This is a simple URL to PDF converter in Python
+This is a simple URL to PDF converter in **Python**
 
 Clone the repository
 ---------------------
@@ -19,7 +19,7 @@ Run the program
       
 Get your PDF :smiley:
 
-The asciinema version can be seen [here](https://asciinema.org/a/37751)
+The **asciinema** version can be seen [here](https://asciinema.org/a/37751)
 
 **Note:**  Make sure that you have set up python with **pip** and other dependencies before starting
 
