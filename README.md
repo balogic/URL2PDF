@@ -1,4 +1,4 @@
-# Generate PDF
+# URL2PDF
 This is a simple URL to PDF converter in **Python**
 
 Clone the repository
